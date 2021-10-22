@@ -1,8 +1,9 @@
 ### Hello there, i'm DarkSnake ###
 
 ### Student, i like to code and make scripts ###
-- 👀 I’m interested in scripting and reverse engineering.
+- 👀 I’m interested in scripting and making apps.
 - 🌱 I like to play videogames too.
+- 👾 Currently developing C/C++, Python. Learning HTML and CSS for school.
 
 <br />
 
