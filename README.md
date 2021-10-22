@@ -2,7 +2,7 @@
 
 ### Student, "Developer" and simp.
 - 👀 I’m interested in scripting and making apps.
-- 🌱 I like to play videogames too.
+- 🌱 I like to play videogames.
 - 👾 Currently developing C/C++, Python. Learning HTML and CSS for school.
 
 ### Languages:
