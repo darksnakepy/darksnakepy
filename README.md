@@ -1,7 +1,7 @@
 ### Hello there, i'm DarkSnake ###
 
-- 👀 I’m interested in making scripts and apps.
-- 🌱 I like to play videogames.
+- 👀 Not experienced dev, just learning.
+- 🌱 Addicted to videogames
 - 👾 Currently developing C/C++, Python. Learning HTML and CSS for school.
 
 ### Languages:
