@@ -1,8 +1,8 @@
 ### Hello there, welcome ###
 
-- 👀 Aspiring developer 
-- 🌱 Gaming
-- 👾 I write Python scripts related to CyberSecurity (ex. RAT)
+- 🖥️ Aspiring developer 
+- 👾 Gaming
+- 🐍 I write Python scripts related to CyberSecurity (ex. RAT)
 - 📜 Game Hacking Development [ C++ ]
 
 ### Languages:
