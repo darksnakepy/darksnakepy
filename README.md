@@ -2,7 +2,7 @@
 
 - 🖥️ Aspiring developer 
 - 👾 Gaming
-- 🐍 I write Python scripts related to CyberSecurity (ex. RAT)
+- 🐍 I write Python scripts
 - 📜 Game Hacking Development [ C++ ]
 
 ### Languages:
