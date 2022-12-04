@@ -1,12 +1,45 @@
-### Hello there, welcome ###
+<p align = "center">
+	<a>
+		<img alt="Python" src="imgs/python-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="c" src="imgs/c-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="cpp" src="imgs/cplusplus-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="php" src="imgs/php-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="java" src="imgs/java-original.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="sql" src="imgs/mysql-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="html" src="imgs/html5-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="css" src="imgs/css3-plain.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+		<img alt="js" src="imgs/javascript-original.svg" width="5%" height="5%"/>
+	</a>
+	<a>
+        <img alt="git" src="imgs/git-plain.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="git" src="imgs/github-original.svg" width="5%" height="5%"/>
+    </a>
+    <a>
+        <img alt="Windows" src="imgs/windows8-original.svg" width="5%" height="5%"/>
+    </a>
+</p>
 
-- 🖥️ Aspiring developer 
-- 👾 Gaming
-- 🐍 I write Python scripts
-- 📜 Game Hacking Development [ C++ ]
 
-### Languages:
-<img align="left" src="https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>
-<img align="left" src ="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465"/>
-<img align="left" src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
-<img align="left" src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
+<h1 align="center">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=darksnakepy&hide_border=true&count_private=true&show_icons=true&theme=dracula">
+    </p>
+
