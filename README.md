@@ -40,6 +40,6 @@
 
 <h1 align="center">
     <p>
-        <img src="://github-readme-stats.vercel.app/api?username=darksnakepy&hide_border=true&count_private=true&show_icons=true&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api?username=darksnakepy&hide_border=true&count_private=true&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=darksnakepy&hide_border=true&count_private=true&show_icons=true&theme=dracula">
     </p>
 
