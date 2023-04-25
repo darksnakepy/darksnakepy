@@ -43,4 +43,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=darksnakepy&hide_border=true&count_private=true&show_icons=true&theme=dracula">
     </p>	
 	
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=IlGabbo&hide=python&theme=dark&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=darksnakepy&hide=python&theme=dark&layout=compact&hide_border=true)
