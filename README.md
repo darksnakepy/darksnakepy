@@ -21,7 +21,7 @@
 		<img alt="tailwind" src="imgs/tailwindcss-plain.svg" width="5%" height="5%"/>
 	</a>
 	<a>
-		<img alt="sql" src="imgs/mysql-plain.svg" width="5%" height="5%"/>
+		<img alt="sql" src="imgs/mysql-original-wordmark.svg" width="5%" height="5%"/>
 	</a>
 	<a>
         <img alt="git" src="imgs/git-plain.svg" width="5%" height="5%"/>
