@@ -37,5 +37,3 @@
 
 <h1 align="center">
 
-	
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=darksnakepy&hide=python&theme=dark&layout=compact&hide_border=true)
